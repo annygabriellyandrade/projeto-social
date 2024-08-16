@@ -19,28 +19,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "O que é pobreza pra você?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Viver com uma renda menor do que o mínimo necessário para satisfazer necessidades básicas",
+                afirmacao: "Viver com uma baixa renda nesse mundo acaba faltando o mínimo para sobreviver."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Viver em áreas urbanas de alta renda.",
+                afirmacao: "Geralmente quem vive em áreas urbanas tem uma renda maior, facilitando o acesso as necessidades básicas."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: " Como a pobreza pode afetar a saúde de uma pessoa? ",
         alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA."
+                texto: "Pode limitar o acesso a cuidados médicos e alimentação adequada.",
+                afirmacao: "Limita o acesso aos cuidados médicos consequentemente surgem os problemas de saúde."
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética."
+                texto: " Melhora a saúde mental e física.",
+                afirmacao: "Não faz sentido melhorar a saúde mental se existe a limitação dos acessos a saúde pública."
             }
         ]
     },
